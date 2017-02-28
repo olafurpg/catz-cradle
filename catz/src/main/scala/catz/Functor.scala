@@ -1,6 +1,6 @@
 package catz
 
-import cats.Functor
+import scalaz.Functor
 import cats.instances.list._
 import cats.instances.option._
 import cats.data.Nested
